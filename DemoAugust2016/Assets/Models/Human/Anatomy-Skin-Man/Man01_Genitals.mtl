@@ -1,0 +1,26 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl penis
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 256
+map_Kd Genitals_Man01.jpg
+map_bump Genitals_Man01.jpg
+bump Genitals_Man01.jpg
+
+newmtl scrotum
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 256
+map_Kd Genitals_Man01.jpg
+map_bump Genitals_Man01.jpg
+bump Genitals_Man01.jpg

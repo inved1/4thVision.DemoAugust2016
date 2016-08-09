@@ -1,0 +1,102 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl cerebellum
+Ka 0 0 0
+Kd 0.792157 0.72549 0.635294
+Ks 0.396078 0.362745 0.317647
+illum 2
+Ns 128
+map_Kd n_brain.jpg
+
+newmtl mesencephalon
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd n_brain.jpg
+
+newmtl optic_chiasma
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd n_brain.jpg
+
+newmtl pons
+Ka 0 0 0
+Kd 0.803922 0.72549 0.713726
+Ks 0.803922 0.72549 0.713726
+illum 2
+Ns 128
+map_Kd n_brain.jpg
+
+newmtl medulla_oblongata
+Ka 0 0 0
+Kd 0.929412 0.913725 0.905882
+Ks 0.929412 0.913725 0.905882
+illum 2
+Ns 128
+map_Kd n_brain.jpg
+
+newmtl corpus_callosum
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd n_brain.jpg
+
+newmtl thalamus
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd n_brain.jpg
+
+newmtl parietal_lobe
+Ka 0 0 0
+Kd 0.745098 0.670588 0.639216
+Ks 0.745098 0.670588 0.639216
+illum 2
+Ns 512
+map_Kd n_brain.jpg
+
+newmtl frontal_lobe
+Ka 0 0 0
+Kd 0.811765 0.756863 0.729412
+Ks 0.811765 0.756863 0.729412
+illum 2
+Ns 512
+map_Kd n_brain.jpg
+
+newmtl occipital_lobe
+Ka 0 0 0
+Kd 0.811765 0.756863 0.729412
+Ks 0.811765 0.756863 0.729412
+illum 2
+Ns 512
+map_Kd n_brain.jpg
+
+newmtl temporal_lobe
+Ka 0 0 0
+Kd 0.870588 0.839216 0.819608
+Ks 0.870588 0.839216 0.819608
+illum 2
+Ns 512
+map_Kd n_brain.jpg
+
+newmtl cerebrum
+Ka 0 0 0
+Kd 0.780392 0.717647 0.686275
+Ks 0.780392 0.717647 0.686275
+illum 2
+Ns 512
+map_Kd n_brain.jpg

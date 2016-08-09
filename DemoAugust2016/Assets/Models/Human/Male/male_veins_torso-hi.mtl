@@ -1,0 +1,126 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl common_iliac_veins
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl internal_iliac_vein
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl hepatic_veins
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl testicular_veins
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl circumflex_iliac_vein
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl phrenic_veins
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl superior_mesenteric_vein
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl jujenal_iliac_veins
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl splenic_vein
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl inferior_mesenteric_vein
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl gastric_vein
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl right_renal_vein
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl left_renal_vein
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl inferior_vena_cava
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl suprarenal_veins
+Ka 0 0 0
+Kd 0 0.25098 0.501961
+Ks 0 0.200784 0.401569
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg

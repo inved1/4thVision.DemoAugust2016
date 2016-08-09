@@ -1,0 +1,70 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl woman05_body
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+illum 2
+Ns 256
+map_Kd AnatomyWoman05_Body.jpg
+
+newmtl woman05_head
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+illum 2
+Ns 256
+map_Kd AnatomyWoman05_Face.jpg
+
+newmtl woman05_eyelashes
+Ka 0 0 0
+Kd 0.121569 0.121569 0.121569
+Ks 0.0200588 0.0200588 0.0200588
+illum 2
+Ns 4
+
+newmtl woman05_hair
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+illum 2
+Ns 256
+map_Kd W05hair_c.jpg
+
+newmtl woman05_iris
+Ka 0 0 0
+Kd 0.501961 0.501961 0.501961
+Ks 0.0803137 0.0803137 0.0803137
+illum 2
+Ns 4
+map_Kd W05eye_c.jpg
+
+newmtl woman05_eye
+Ka 0 0 0
+Kd 0.501961 0.501961 0.501961
+Ks 0.0803137 0.0803137 0.0803137
+illum 2
+Ns 4
+map_Kd W05eye_c.jpg
+map_kS Weye_s.jpg
+
+newmtl eyeball_Ext
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.627451 0.627451 0.627451
+illum 2
+Ns 1024
+d 0.1
+
+newmtl eyeball_Int
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.588235 0.588235 0.588235
+illum 2
+Ns 1024
+d 0.05

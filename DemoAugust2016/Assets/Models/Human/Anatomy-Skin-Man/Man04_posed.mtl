@@ -1,0 +1,59 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl man04_body
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+illum 2
+Ns 256
+map_Kd Man_04_Diffuse.jpg
+map_bump Man_04_Bump.jpg
+bump Man_04_Bump.jpg
+
+newmtl man04_head
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+illum 2
+Ns 256
+map_Kd Man_04_Head_Diffuse.jpg
+map_bump Man_04_Head_Bump.jpg
+bump Man_04_Head_Bump.jpg
+
+newmtl man04_iris
+Ka 0 0 0
+Kd 0.501961 0.501961 0.501961
+Ks 0.0803137 0.0803137 0.0803137
+illum 2
+Ns 4
+map_Kd M01eye_c.jpg
+
+newmtl man04_eye
+Ka 0 0 0
+Kd 0.780392 0.780392 0.780392
+Ks 0.124863 0.124863 0.124863
+illum 2
+Ns 4
+map_Kd M01eye_c.jpg
+map_kS Meye_s.jpg
+
+newmtl eyeball_Ext
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.627451 0.627451 0.627451
+illum 2
+Ns 1024
+d 0.1
+
+newmtl eyeball_Int
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.588235 0.588235 0.588235
+illum 2
+Ns 1024
+d 0.05

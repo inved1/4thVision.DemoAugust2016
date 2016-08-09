@@ -1,0 +1,14 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl spinal_cord
+Ka 0 0 0
+Kd 0.996078 0.945098 0.662745
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd n_system.jpg

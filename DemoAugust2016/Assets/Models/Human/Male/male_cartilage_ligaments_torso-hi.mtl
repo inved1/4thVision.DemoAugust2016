@@ -1,0 +1,86 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl coracoacromial_ligament
+Ka 0 0 0
+Kd 0.823529 0.984314 1
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd cartilage_ligaments.jpg
+
+newmtl obturator_membrane
+Ka 0 0 0
+Kd 0.823529 0.984314 1
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd cartilage_ligaments.jpg
+
+newmtl inguinal_ligament
+Ka 0 0 0
+Kd 0.823529 0.984314 1
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd cartilage_ligaments.jpg
+
+newmtl longitudinal_ligament
+Ka 0 0 0
+Kd 0.823529 0.984314 1
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd cartilage_ligaments.jpg
+
+newmtl interspinous_ligament
+Ka 0 0 0
+Kd 0.823529 0.984314 1
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd cartilage_ligaments.jpg
+
+newmtl iliolumbar_ligament
+Ka 0 0 0
+Kd 0.823529 0.984314 1
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd cartilage_ligaments.jpg
+
+newmtl pubic_symphysis_ligament
+Ka 0 0 0
+Kd 0.823529 0.984314 1
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd cartilage_ligaments.jpg
+
+newmtl craniocervical_ligament
+Ka 0 0 0
+Kd 0.823529 0.984314 1
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd cartilage_ligaments.jpg
+
+newmtl zygapophyseal_joints
+Ka 0 0 0
+Kd 0.823529 0.984314 1
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd cartilage_ligaments.jpg
+
+newmtl perineal_membrane
+Ka 0 0 0
+Kd 0.823529 0.984314 1
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd cartilage_ligaments.jpg

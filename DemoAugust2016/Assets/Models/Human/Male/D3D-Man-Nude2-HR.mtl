@@ -1,0 +1,216 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl Man_Head
+	 Ka 0 0 0
+	 Kd 0.818824 0.663529 0.494118
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd ManFace.jpg
+map_bump ManFaceB.jpg
+bump ManFaceB.jpg
+newmtl Man_Hair
+	 Ka 0 0 0
+	 Kd 0.818824 0.663529 0.494118
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd MHair2a.jpg
+map_bump MHair2a.jpg
+bump MHair2a.jpg
+newmtl Man_Gums
+	 Ka 0 0 0
+	 Kd 0.6 0.343333 0.343333
+	 Ks 0.00317647 0.00181765 0.00181765
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd ManGums.jpg
+map_bump ManGumsB.jpg
+bump ManGumsB.jpg
+newmtl Man_Tear_Duct
+	 Ka 0 0 0
+	 Kd 0.818824 0.663529 0.494118
+	 Ks 0.00454902 0.00368627 0.0027451
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd ManFace.jpg
+map_bump ManFaceB.jpg
+bump ManFaceB.jpg
+newmtl Man_Arm_Left
+	 Ka 0 0 0
+	 Kd 0.818824 0.663529 0.494118
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd ManArmL.jpg
+map_bump MTisB.jpg
+bump MTisB.jpg
+newmtl Man_Torso
+	 Ka 0 0 0
+	 Kd 0.818824 0.663529 0.494118
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd MTor2.jpg
+map_bump MTisB.jpg
+bump MTisB.jpg
+newmtl Man_Leg_Left
+	 Ka 0 0 0
+	 Kd 0.818824 0.663529 0.494118
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd MLegL.jpg
+map_bump MTisB.jpg
+bump MTisB.jpg
+newmtl Man_Leg_Right
+	 Ka 0 0 0
+	 Kd 0.818824 0.663529 0.494118
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd MLegR.jpg
+map_bump MTisB.jpg
+bump MTisB.jpg
+newmtl Man_Arm_Right
+	 Ka 0 0 0
+	 Kd 0.818824 0.663529 0.494118
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd ManArmR.jpg
+map_bump MTisB.jpg
+bump MTisB.jpg
+newmtl Man_Palm_Left
+	 Ka 0 0 0
+	 Kd 0.889412 0.444706 0.423529
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd MPLeft.jpg
+map_bump MHandLB.jpg
+bump MHandLB.jpg
+newmtl Man_Fingernails_Left
+	 Ka 0 0 0
+	 Kd 0.847059 0.712941 0.578824
+	 Ks 0.00178824 0.0015051 0.00122196
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Man_Hand_Left
+	 Ka 0 0 0
+	 Kd 0.818824 0.663529 0.494118
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd MHandL.jpg
+map_bump MHandLB.jpg
+bump MHandLB.jpg
+newmtl Man_Palm_Right
+	 Ka 0 0 0
+	 Kd 0.889412 0.444706 0.423529
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd MPRight.jpg
+map_bump MPRightB.jpg
+bump MPRightB.jpg
+newmtl Man_Fingernails_Right
+	 Ka 0 0 0
+	 Kd 0.847059 0.712941 0.578824
+	 Ks 0.00178824 0.0015051 0.00122196
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Man_Hand_Right
+	 Ka 0 0 0
+	 Kd 0.818824 0.663529 0.494118
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd MHandR.jpg
+map_bump MHandRB.jpg
+bump MHandRB.jpg
+newmtl Man_Toenails
+	 Ka 0 0 0
+	 Kd 0.847059 0.712941 0.578824
+	 Ks 0.00178824 0.0015051 0.00122196
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Man_Feet
+	 Ka 0 0 0
+	 Kd 0.818824 0.663529 0.494118
+	 Ks 0.000227451 0.000184314 0.000137255
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd MSkin.jpg
+map_bump MLegR.jpg
+bump MLegR.jpg
+newmtl Man_Tongue
+	 Ka 0 0 0
+	 Kd 0.6 0.343333 0.343333
+	 Ks 0.00317647 0.00181765 0.00181765
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd MTon.jpg
+map_bump MTonB.jpg
+bump MTonB.jpg
+newmtl Man_Teeth
+	 Ka 0 0 0
+	 Kd 0.635294 0.363529 0.363529
+	 Ks 0.00317647 0.00181765 0.00181765
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd MTeeth.jpg
+map_bump MTeethB.jpg
+bump MTeethB.jpg
+newmtl Man_Iris_Left
+	 Ka 0 0 0
+	 Kd 1 1 1
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd ManEyeD.jpg
+map_bump ManEyeB.jpg
+bump ManEyeB.jpg
+newmtl Man_Eye_Left
+	 Ka 0 0 0
+	 Kd 1 1 1
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd ManEyeD.jpg
+map_bump ManEyeB.jpg
+bump ManEyeB.jpg
+newmtl Cornea_Inner
+	 Ka 0 0 0
+	 Kd 0.351373 0.351373 0.351373
+	 Ks 0.00188235 0.00188235 0.00188235
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Cornea_Outer
+	 Ka 0 0 0
+	 Kd 0.351373 0.351373 0.351373
+	 Ks 0.00200784 0.00200784 0.00200784
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Man_Iris_Right
+	 Ka 0 0 0
+	 Kd 1 1 1
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd ManEyeD.jpg
+map_bump ManEyeB.jpg
+bump ManEyeB.jpg
+newmtl Man_Eye_Right
+	 Ka 0 0 0
+	 Kd 1 1 1
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+map_Kd ManEyeD.jpg
+map_bump ManEyeB.jpg
+bump ManEyeB.jpg

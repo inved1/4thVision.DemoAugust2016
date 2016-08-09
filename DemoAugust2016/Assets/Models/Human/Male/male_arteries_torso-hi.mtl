@@ -1,0 +1,126 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl common_iliac_artery
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl internal_iliac_artery
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl superior_mesenteric_artery
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl circumflex_iliac_artery
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl splenic_artery
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl hepatic_artery
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl suprarenal_arteries
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl gastric_artery
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl testicular_arteries
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl phrenic_arteries
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl jujenal_iliac_arteries
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl inferior_mesenteric_artery
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl left_renal_artery
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl right_renal_artery
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
+
+newmtl abdominal_aorta
+Ka 0 0 0
+Kd 0.92549 0.2 0.215686
+Ks 0.740392 0.16 0.172549
+illum 2
+Ns 256
+map_Kd cv_arteries_veins.jpg
